@@ -1,6 +1,6 @@
 # STATUS UPDATE:
 
-MACHINE ID:             named.txt
+MACHINE ID:           name.txt\
 LOCATION:             README.md
 
 CURRENT SKILLS:
