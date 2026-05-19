@@ -1,16 +1,18 @@
-## Hi there 👋
+# STATUS UPDATE:
 
-<!--
-**namedottxt/namedottxt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MACHINE ID:             named.txt
+LOCATION:             README.md
 
-Here are some ideas to get you started:
+CURRENT SKILLS:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,discordjs,linux,py" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+CURRENT OBJECTIVES:       
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=svelte,react,go" />
+  </a>
+</p>
