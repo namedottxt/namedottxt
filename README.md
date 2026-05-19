@@ -1,6 +1,6 @@
 # STATUS UPDATE:
 
-<h3 style="font-family: monospace;">MACHINE ID: name.txt</h3>
+### MACHINE ID: name.txt
 
 ### CURRENT SKILLS:
 <p align="left">
