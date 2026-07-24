@@ -1,5 +1,4 @@
 # STATUS UPDATE:
-
 ## MACHINE ID: name.txt
 
 ### CURRENT SKILLS:
