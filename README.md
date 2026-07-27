@@ -1,5 +1,5 @@
 # STATUS UPDATE:
-## MACHINE ID: name.txt
+## MACHINE ID: namedottxt
 
 ### CURRENT SKILLS:
 <p align="left">
