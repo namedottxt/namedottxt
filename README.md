@@ -1,3 +1,5 @@
+![meirl](tux.gif)
+
 # STATUS UPDATE:
 ## MACHINE ID: namedottxt
 
